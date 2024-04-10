@@ -160,5 +160,5 @@ public class Tests
         Assert.AreEqual(0.129, obj.fX(obj.secondEquation(0.5)), 0.001);
     }
 
-    //test
+    //test_2
 }
